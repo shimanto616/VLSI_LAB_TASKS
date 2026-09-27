@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/ise/Shared_folder/Register_8Bit_Design/register_8bit_v_tb_isim_beh.exe" -prj "/home/ise/Shared_folder/Register_8Bit_Design/register_8bit_v_tb_beh.prj" "work.register_8bit_v_tb" "work.glbl" 
