@@ -1,5 +1,4 @@
-#Required Softwares:
-
+# Required Softwares:
 
 - Putty
   
@@ -9,28 +8,27 @@
   
   
   
-  User format:
+## User format:
   
-    name: user\_24
+- name: user\_24
   
-    password: 24\_cadvlsi
-  
-  
-  
-  Commands:
+- password: 24\_cadvlsi
   
   
-    - nautilus
   
-    - csh
+# Commands:
   
-    - virtuoso \&
+  - nautilus
   
-    - ip : 192.168.26.1 (this is also WinSCP workspace name)
+  - csh
+  
+  - virtuoso \&
+  
+  - ip : 192.168.26.1 (this is also WinSCP workspace name)
 
 
 
-#Xillinx ISE:
+# Xillinx ISE:
 
 
   - Download from [amd](amd.com)
