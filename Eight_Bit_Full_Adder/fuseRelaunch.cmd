@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/ise/Xilinx_project/computer/Eight_Bit_Full_Adder/full_adder_8bit_v2_tb_dynamic_isim_beh.exe" -prj "/home/ise/Xilinx_project/computer/Eight_Bit_Full_Adder/full_adder_8bit_v2_tb_dynamic_beh.prj" "work.full_adder_8bit_v2_tb_dynamic" "work.glbl" 

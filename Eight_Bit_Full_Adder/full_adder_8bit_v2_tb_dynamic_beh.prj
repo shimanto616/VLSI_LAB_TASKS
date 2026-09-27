@@ -1,0 +1,4 @@
+verilog work "full_adder.v"
+verilog work "full_adder_8bit.v"
+verilog work "full_adder_8bit_v2_tb_dynamic.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,53 @@
+ISim log file
+Running: /home/ise/Xilinx_project/computer/Eight_Bit_Full_Adder/full_adder_8bit_v2_tb_dynamic_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/Xilinx_project/computer/Eight_Bit_Full_Adder/full_adder_8bit_v2_tb_dynamic_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is ise, on host localhost.localdomain.
+INFO:Security:15 - A feature for ISIM was found but is for the wrong hostid.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+Invalid host.
+ The hostid of this system does not match the hostid
+ specified in the license file.
+Feature:       ISIM
+Hostid:        08002768c935
+License path:  /home/ise/.Xilinx/Xilinx.lic:/opt/Xilinx/14.7/ISE_DS/ISE//data/*.lic:/opt/Xilinx/14.7/ISE_DS/ISE//coregen/core_licenses/Xilinx.lic:/opt/Xilinx/14.7/ISE_DS/ISE//coregen/core_licenses/XilinxFree.lic:/opt/Xilinx/14.7/ISE_DS/EDK/data/core_licenses/Xilinx.lic:
+FLEXnet Licensing error:-9,57
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.flexerasoftware.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 2000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Test 1: PASS | A=36 B=129 Cin=1 | Expected=166 Actual=166
+Test 2: PASS | A=99 B=13 Cin=1 | Expected=113 Actual=113
+Test 3: PASS | A=101 B=18 Cin=1 | Expected=120 Actual=120
+Test 4: PASS | A=13 B=118 Cin=1 | Expected=132 Actual=132
+Test 5: PASS | A=237 B=140 Cin=1 | Expected=378 Actual=378
+Test 6: PASS | A=198 B=197 Cin=0 | Expected=395 Actual=395
+Test 7: PASS | A=229 B=119 Cin=0 | Expected=348 Actual=348
+Test 8: PASS | A=143 B=242 Cin=0 | Expected=385 Actual=385
+Test 9: PASS | A=232 B=197 Cin=0 | Expected=429 Actual=429
+Test 10: PASS | A=189 B=45 Cin=1 | Expected=235 Actual=235
+Test 11: PASS | A=99 B=10 Cin=0 | Expected=109 Actual=109
+Test 12: PASS | A=32 B=170 Cin=1 | Expected=203 Actual=203
+Test 13: PASS | A=150 B=19 Cin=1 | Expected=170 Actual=170
+Test 14: PASS | A=83 B=107 Cin=1 | Expected=191 Actual=191
+Test 15: PASS | A=2 B=174 Cin=1 | Expected=177 Actual=177
+-----------------------------------
+Total Tests = 15
+PASS = 15
+FAIL = 0
+-----------------------------------
+Stopped at time : 1500 ns : File "/home/ise/Xilinx_project/computer/Eight_Bit_Full_Adder/full_adder_8bit_v2_tb_dynamic.v" Line 114

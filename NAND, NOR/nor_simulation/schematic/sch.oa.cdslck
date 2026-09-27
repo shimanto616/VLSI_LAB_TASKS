@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      user_24
+HostName                       vlsicad
+ProcessIdentifier              1429304
+ProcessCreationTime_UTC        1787472535
+ProcessCreationTime_Readable   Sun Aug 23 04:08:55 2026 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/user_24/shimanto616/nor_simulation/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Aug 23 05:22:59 2026 EDT
