@@ -1,64 +1,128 @@
-Required Softwares:
-
-&#x09;- Putty
-
-&#x09;- Xlaunch
-
-&#x09;- Win SCP
+\# Required Softwares:
 
 
 
-User format:
+\- Putty
 
-&#x09;name: user\_24
+&#x20; 
 
-&#x09;password: 24\_cadvlsi
+\- Xlaunch
 
+&#x20; 
 
+\- Win SCP
 
-Commands:
+&#x20; 
 
-&#x09;- nautilus
+&#x20; 
 
-&#x09;- csh
+&#x20; 
 
-&#x09;- virtuoso \&
+\## User format:
 
-&#x09;- ip : 192.168.26.1 (this is also WinSCP workspace name)
+&#x20; 
 
+\- name: user\\\_24
 
+&#x20; 
 
-Xillinx ISE:
+\- password: 24\\\_cadvlsi
 
-&#x09;- Download from [amd](amd.com)
+&#x20; 
 
-&#x09;- Unzip using only 7Zip
+&#x20; 
 
-&#x09;- install virtual box
+&#x20; 
 
-&#x09;- enable virtualization
+\# Commands:
 
-&#x09;- in the binary folder copy virtual \_\_\_ validation
+&#x20; 
 
-&#x09;- open cmd in that folder then paste it (enable virtualization)
+&#x20; - nautilus
 
-&#x09;- IF virtualization is not enabled you need to enable it
+&#x20; 
 
-&#x09;- go to BIOS then, enable virtualization SOMEHOW (advanced > system options)
+&#x20; - csh
 
-&#x09;- enable TPM state
+&#x20; 
 
-&#x09;- turn a windows feature off
+&#x20; - virtuoso \\\&
 
-&#x09;- install the rest
+&#x20; 
 
-
+&#x20; - ip : 192.168.26.1 (this is also WinSCP workspace name)
 
 
 
 
 
-\[NOTE: WE WILL BE CRATING SCHEMATICS IN THE LAB AND DO THE SIMULATION PART IN
 
-&#x20;XILLINX]
+
+\# Xillinx ISE:
+
+
+
+
+
+&#x20; - Download from \[amd](amd.com)
+
+&#x20; 
+
+&#x20; - Unzip using only 7Zip
+
+&#x20; 
+
+&#x20; - install virtual box
+
+&#x20; 
+
+&#x20; - enable virtualization
+
+&#x20; 
+
+&#x20; - in the binary folder copy virtual \\\_\\\_\\\_ validation
+
+&#x20; 
+
+&#x20; - open cmd in that folder then paste it (enable virtualization)
+
+&#x20; 
+
+&#x20; - IF virtualization is not enabled you need to enable it
+
+&#x20; 
+
+&#x20; - go to BIOS then, enable virtualization SOMEHOW (advanced > system options)
+
+&#x20; 
+
+&#x20; - enable TPM state
+
+&#x20; 
+
+&#x20; - turn a windows feature off
+
+&#x20; 
+
+&#x20; - install the rest
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+\[NOTE: WE WILL BE CRATING SCHEMATICS IN THE LAB AND DO THE SIMULATION PART IN XILLINX]
+
+```
+
+
 
