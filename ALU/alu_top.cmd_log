@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Shared_folder/ALU/alu_top.xst" -ofn "/home/ise/Shared_folder/ALU/alu_top.syr" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/ise/Shared_folder/ALU/tb_alu_top_isim_beh.exe" -prj "/home/ise/Shared_folder/ALU/tb_alu_top_beh.prj" "tb_alu_top" "work.glbl" 
