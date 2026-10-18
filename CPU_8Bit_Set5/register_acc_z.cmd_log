@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/Shared_folder/CPU_8Bit_Set5/register_acc_z.xst" -ofn "/home/ise/Shared_folder/CPU_8Bit_Set5/register_acc_z.syr" 
+xst -intstyle ise -ifn "/home/ise/Shared_folder/CPU_8Bit_Set5/register_acc_z.xst" -ofn "/home/ise/Shared_folder/CPU_8Bit_Set5/register_acc_z.syr" 
