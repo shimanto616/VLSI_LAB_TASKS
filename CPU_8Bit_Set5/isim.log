@@ -1,5 +1,5 @@
 ISim log file
-Running: /home/ise/Shared_folder/CPU_8Bit_Set5/tb_pc_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/Shared_folder/CPU_8Bit_Set5/tb_pc_isim_beh.wdb 
+Running: /home/ise/Shared_folder/CPU_8Bit_Set5/tb_alu_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/Shared_folder/CPU_8Bit_Set5/tb_alu_isim_beh.wdb 
 ISim P.20131013 (signature 0xfbc00daa)
 ----------------------------------------------------------------------
 INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
@@ -30,5 +30,5 @@ Time resolution is 1 ps
 # run 1000 ns
 Simulator is doing circuit initialization process.
 Finished circuit initialization process.
-Stopped at time : 95 ns :  in File "/home/ise/Shared_folder/CPU_8Bit_Set5/tb_pc.v" Line 40 
+Stopped at time : 50 ns :  in File "/home/ise/Shared_folder/CPU_8Bit_Set5/tb_alu.v" Line 33 
 # exit 0

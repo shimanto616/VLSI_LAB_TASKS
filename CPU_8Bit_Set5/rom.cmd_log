@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Shared_folder/CPU_8Bit_Set5/rom.xst" -ofn "/home/ise/Shared_folder/CPU_8Bit_Set5/rom.syr" 
