@@ -39,29 +39,29 @@ The primary deliverable in this repository (CPU_8Bit_Set5) is a single-cycle acc
 
 Architecture Highlights:
 
-	- Program Counter (PC): 4-bit sequential counter targeting a 16-location Program ROM.
+- Program Counter (PC): 4-bit sequential counter targeting a 16-location Program ROM.
 
-	- Control Unit & ROM: Fully combinational (always @(*)) for single-cycle fetch, decode, and execute execution.
+- Control Unit & ROM: Fully combinational (always @(*)) for single-cycle fetch, decode, and execute execution.
 
-	- ALU & Accumulator: 8-bit data path handling arithmetic, logic, and bit-shift operations with synchronous Zero Flag (Z) updates.
+- ALU & Accumulator: 8-bit data path handling arithmetic, logic, and bit-shift operations with synchronous Zero Flag (Z) updates.
 
 ---
 
 ## How to Run in Xilinx ISE
 
-	- Open Xilinx ISE and create a new project targeting your device family (e.g., Spartan-6).
+- Open Xilinx ISE and create a new project targeting your device family (e.g., Spartan-6).
 
-	- Add Source Files: Include all .v files from the targeted directory (e.g., CPU_8Bit_Set5/ or ALU/).
+- Add Source Files: Include all .v files from the targeted directory (e.g., CPU_8Bit_Set5/ or ALU/).
 
-	- Run Behavioral Simulation:
+- Run Behavioral Simulation:
 
-	- Switch the view from Implementation to Simulation in the Design pane.
+- Switch the view from Implementation to Simulation in the Design pane.
 
-	- Select the relevant testbench (e.g., tb_cpu_top.v).
+- Select the relevant testbench (e.g., tb_cpu_top.v).
 
-	- Double-click Simulate Behavioral Model under the ISim Simulator process hierarchy.
+- Double-click Simulate Behavioral Model under the ISim Simulator process hierarchy.
 
-	- Inspect Waveforms: Verify register updates, opcode execution, and zero flag states in the ISim waveform viewer. 
+- Inspect Waveforms: Verify register updates, opcode execution, and zero flag states in the ISim waveform viewer. 
 
 
 
